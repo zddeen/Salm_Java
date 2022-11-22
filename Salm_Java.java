@@ -4,4 +4,4 @@ class Salm_Java{
 			System.out.println("ASSALAMU_ALAIKUM");
 			
 		}
-}
+
